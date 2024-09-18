@@ -1,0 +1,22 @@
+name: user_repository
+description: A Very Good Project created by Very Good CLI.
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: "^3.3.0"
+
+dependencies:
+  api:
+    path: ../../api
+  authentication_client:
+    path: ../authentication_client/authentication_client
+  equatable: ^2.0.5
+  rxdart: ^0.28.0
+  storage:
+    path: ../storage/storage
+
+dev_dependencies:
+  mocktail: ^1.0.3
+  test: ^1.25.2
+  very_good_analysis: ^5.1.0

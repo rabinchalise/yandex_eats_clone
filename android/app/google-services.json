@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498292800081",
+    "project_id": "yonder-eats-clone",
+    "storage_bucket": "yonder-eats-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498292800081:android:eb00cc1f03c844360dd670",
+        "android_client_info": {
+          "package_name": "com.yandex_eats_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdkIqHPKJf6Q0tYRPSYlIqc5ru_HhNK5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

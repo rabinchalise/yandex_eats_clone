@@ -1,0 +1,26 @@
+name: api
+description: A new Dart Frog application
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  dart_frog: ^1.1.0
+  dio: ^5.6.0
+  dotenv: ^4.2.0
+  equatable: ^2.0.5
+  intl: ^0.19.0
+  json_annotation: ^4.9.0
+  pool: ^1.5.1
+  postgres: ^3.3.0
+  stormberry: ^0.14.0
+  uuid: ^4.5.0
+
+dev_dependencies:
+  build_runner: ^2.4.12
+  json_serializable: ^6.8.0
+  mocktail: ^1.0.3
+  test: ^1.25.5
+  very_good_analysis: ^5.1.0
